@@ -6,4 +6,4 @@ function calling_resources() {
 
 }
 
-add_action('wp_enqueue_scripts','learningWordPress_resources')
+add_action('wp_enqueue_scripts','learningWordPress_resources');
