@@ -1,4 +1,4 @@
-<h1>Hello ITS members! </h1>
+<h1>edit index.php for the font page  </h1>
 
 <?php 
 
